@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/01_Besic",
-      "program": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/01_Besic/build/Debug/outDebug",
+      "cwd": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/06_Array",
+      "program": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/06_Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
