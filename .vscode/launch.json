@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/06_Array",
-      "program": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/06_Array/build/Debug/outDebug",
+      "cwd": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/15_BubbleSort",
+      "program": "c:/Users/subha/OneDrive/Desktop/DSA(C++)/15_BubbleSort/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
